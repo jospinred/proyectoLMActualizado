@@ -192,6 +192,34 @@ input, select, textarea {
 		clear: both;
 	}
 
+	form{
+		border: 1px solid grey;
+		border-radius: 1vw;
+		padding: 1vw;
+	}
+	.leyenForm{
+		margin-bottom: 1vw;
+	}
+
+	input{
+		margin-top: 0;
+	}
+
+	.prueba{
+		margin-bottom: .5vw;
+		padding-bottom: 0;
+	}
+	
+	input[type=number]{
+		margin-bottom: 2vw;
+		border: 1px solid rgb(231, 231, 231);
+		border-radius: 0.3vw;
+		padding-left: 1vw;
+
+	}
+
+
+
 	hr {
 		position: relative;
 		display: block;
