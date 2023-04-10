@@ -209,6 +209,11 @@ input, select, textarea {
 		margin-bottom: .5vw;
 		padding-bottom: 0;
 	}
+
+	#img2{
+		width: 100%;
+	}
+
 	
 	input[type=number]{
 		margin-bottom: 2vw;
